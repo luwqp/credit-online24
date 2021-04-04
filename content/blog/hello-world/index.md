@@ -1,15 +1,15 @@
 ---
-title: Hello World
+title: Кредит онлайн на банківську карту
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Список усім мікрозаймів та компаній які займаються видачею швидких грошей в інтернеті на банківську карту"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Мікрозайм онлайн на картку в Україні. Оформити терміновий мікрокредит на банківську ... варіантів зі списку, заповніть анкети на сайтах МФО і чекайте рішення.
 
-I'm sure I'll write a lot more interesting things in the future.
+Отримання позикових коштів - процедура, що вимагає певної фінансової грамотності та обізнаності. В першу чергу у виборі контрагента. Liga.CreditOnline підготувала каталог МФО, що видають позики на карту або перекладом. Ми виконали частину завдань в підборі позикодавців, вам залишається визначити фаворита.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Для оформлення заявки виберіть кілька найбільш привабливих варіантів зі списку, заповніть анкети на сайтах МФО і чекайте рішення. Як правило, воно надходить через кілька хвилин після подачі заявки.
+[Список всіх МФО](https://mfo24.info/list-mfo-organi/).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
