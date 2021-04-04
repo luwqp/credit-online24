@@ -1,14 +1,13 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Всі МФО України [2021]
+date: "2021-04-01T23:46:37.121Z"
 ---
 
 Wow! I love blogging so much already.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Каталог микрофинансовых организаций - МФО Украины 2021
+В Украине работает более сотни микрофинансовых организаций, не все из них мы рекомендуем .. На этой странице собраны проверенные компании, имеющие лицензии и могут называться надежными. Воспользуйтесь каталогом МФО 2021 для поиска выгодных условий по онлайн кредитам.
+([Джерело:](https://mfo24.info/list-mfo-organi/))
 
 <p style="box-sizing: inherit; padding: 0px; margin: 0px 0px 1em; outline: 0px; line-height: 1.4285em; color: #272727; font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; background-color: #f5f5f5;"></p>
 <table class="tablepress tablepress-id-mfo" style="box-sizing: inherit; padding: 0px; margin: 0px; outline: 0px; border-spacing: 0px; border-style: dashed; border-color: #bbbbbb; color: #272727; font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; background-color: #f5f5f5;">
